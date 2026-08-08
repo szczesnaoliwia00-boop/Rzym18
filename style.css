@@ -1184,12 +1184,3 @@ background:linear-gradient(90deg,#9d7933,#d7b26c,#9d7933);
     }
 
 }
-/* OSTATECZNY TEST HERO */
-
-@media (max-width: 768px) {
-
-    .hero {
-        display: none !important;
-    }
-
-}
